@@ -1,0 +1,62 @@
+body{
+    background: rgb(85, 167, 221);
+    font: normal 15pt Arial;
+    text-align: center;
+}   
+
+header {
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 1000px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(52, 97, 128);
+    text-align: center;
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+
+input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+
+input.cancelamento{
+    width:120px;
+    height:30px;
+    font-size: 25px;
+    border-radius: 04px;
+    border: 1px solid black;
+    }
+
+input.buscar{height:30px;
+}
+
+p{
+    text-align: center;
+}
+
+ table th, table td{
+     padding: 20px 10px;
+     align-items: center;
+     text-align: center;
+     margin: 0 auto;
+ }
+
+ table{
+     border-collapse: collapse;
+     margin: 0 auto;
+ }
